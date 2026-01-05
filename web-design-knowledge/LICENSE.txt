@@ -1,0 +1,32 @@
+Web Design Knowledge Skill License
+
+This skill is for personal use only.
+
+The knowledge base is derived from copyrighted design books.
+The extracted passages are used for educational purposes under fair use.
+The original works remain the property of their respective authors and publishers.
+
+Books included in this knowledge base:
+- Learning Web Design, 6th Edition by Jennifer Niederst Robbins
+- Principles of Web Design, 3rd Edition by Brian D. Miller
+- The Principles of Beautiful Web Design, 4th Edition by Jason Beaird
+- Web Design Playground, 2nd Edition by Paul McFedries
+- The Art & Science of Web Design by Jeffrey Veen
+- Web Design Confidential by Amanda Hackwith
+- Web Design Basics: Color Choices by StomperNet
+- Roots of UI/UX Design by Elisa Paduraru
+- Ultimate UI/UX Design for Professionals by Sharanpreet Kaur
+- UX/UI Design 2022 by Carl Jones
+- UX and UI Strategy by Pamala Deacon
+- Designing Apps for Success by Matthew David
+- Handcrafted CSS by Dan Cederholm
+- CSS Portfolio App Design by Abdelfattah Ragab
+- Responsive Web Design by Ethan Marcotte
+- Responsive Web Design in Practice by Jason A. Clark
+- Ultimate Figma for UI/UX Design by Aditi Sharma
+- Design Culture by Guy Julier
+- The Cult of Mac by Leander Kahney
+- JavaScript Application Design by Nicolas Bevacqua
+- An Architectural Approach to Level Design by Christopher Totten
+
+For commercial use, please obtain appropriate licenses for the source materials.

@@ -1,0 +1,348 @@
+# Topic Taxonomy Configuration
+# Defines the 12 primary design topics for classification
+
+topics:
+  color_theory:
+    name: "Color Theory"
+    description: "Color palettes, contrast, harmony, psychology, accessibility"
+    keywords:
+      - color
+      - palette
+      - hue
+      - saturation
+      - brightness
+      - contrast
+      - complementary
+      - analogous
+      - triadic
+      - monochromatic
+      - warm colors
+      - cool colors
+      - hex
+      - rgb
+      - hsl
+      - wcag
+      - color blindness
+      - color harmony
+      - color psychology
+      - color scheme
+      - accent color
+      - primary color
+      - secondary color
+      - neutral
+
+  typography:
+    name: "Typography"
+    description: "Font selection, pairing, hierarchy, readability, web fonts"
+    keywords:
+      - font
+      - typeface
+      - typography
+      - serif
+      - sans-serif
+      - font-size
+      - line-height
+      - letter-spacing
+      - font-weight
+      - heading
+      - body text
+      - readability
+      - legibility
+      - font pairing
+      - web fonts
+      - google fonts
+      - type scale
+      - baseline
+      - kerning
+      - tracking
+      - leading
+      - em
+      - rem
+      - typographic hierarchy
+
+  layout:
+    name: "Layout"
+    description: "Grid systems, spacing, composition, visual flow, alignment"
+    keywords:
+      - layout
+      - grid
+      - flexbox
+      - css grid
+      - columns
+      - rows
+      - spacing
+      - margin
+      - padding
+      - alignment
+      - justify
+      - composition
+      - whitespace
+      - negative space
+      - golden ratio
+      - rule of thirds
+      - visual flow
+      - container
+      - wrapper
+      - section
+      - sidebar
+      - header
+      - footer
+      - content area
+
+  ux_principles:
+    name: "UX Principles"
+    description: "User experience, usability, accessibility, user research"
+    keywords:
+      - user experience
+      - ux
+      - usability
+      - accessibility
+      - a11y
+      - user research
+      - persona
+      - user journey
+      - user flow
+      - wireframe
+      - prototype
+      - heuristics
+      - cognitive load
+      - affordance
+      - mental model
+      - user testing
+      - feedback
+      - error prevention
+      - learnability
+      - efficiency
+      - satisfaction
+      - inclusive design
+
+  ui_patterns:
+    name: "UI Patterns"
+    description: "Common UI components, design patterns, interaction patterns"
+    keywords:
+      - button
+      - modal
+      - dialog
+      - dropdown
+      - menu
+      - card
+      - carousel
+      - slider
+      - tab
+      - accordion
+      - tooltip
+      - notification
+      - toast
+      - badge
+      - avatar
+      - progress bar
+      - loading
+      - skeleton
+      - breadcrumb
+      - pagination
+      - search bar
+      - icon
+      - component
+      - widget
+
+  responsive:
+    name: "Responsive Design"
+    description: "Mobile-first, breakpoints, fluid design, media queries"
+    keywords:
+      - responsive
+      - mobile
+      - tablet
+      - desktop
+      - breakpoint
+      - media query
+      - viewport
+      - fluid
+      - flexible
+      - adaptive
+      - mobile-first
+      - touch
+      - gesture
+      - screen size
+      - device
+      - orientation
+      - portrait
+      - landscape
+      - retina
+      - high-dpi
+      - srcset
+      - picture element
+
+  css_techniques:
+    name: "CSS Techniques"
+    description: "CSS properties, selectors, animations, modern CSS features"
+    keywords:
+      - css
+      - selector
+      - property
+      - value
+      - pseudo-class
+      - pseudo-element
+      - animation
+      - transition
+      - transform
+      - keyframes
+      - variable
+      - custom property
+      - calc
+      - clamp
+      - min
+      - max
+      - position
+      - z-index
+      - overflow
+      - display
+      - float
+      - clear
+      - box model
+      - border
+      - shadow
+
+  visual_hierarchy:
+    name: "Visual Hierarchy"
+    description: "Emphasis, contrast, scale, visual weight, attention flow"
+    keywords:
+      - hierarchy
+      - emphasis
+      - focal point
+      - visual weight
+      - scale
+      - size
+      - contrast
+      - dominance
+      - proportion
+      - balance
+      - symmetry
+      - asymmetry
+      - attention
+      - eye tracking
+      - f-pattern
+      - z-pattern
+      - scanning
+      - above the fold
+      - call to action
+      - cta
+      - prominence
+
+  branding:
+    name: "Branding"
+    description: "Brand identity, consistency, style guides, design systems"
+    keywords:
+      - brand
+      - branding
+      - identity
+      - logo
+      - style guide
+      - design system
+      - consistency
+      - brand colors
+      - brand voice
+      - tone
+      - personality
+      - values
+      - mission
+      - vision
+      - brand guidelines
+      - visual identity
+      - brand recognition
+      - trademark
+      - tagline
+      - slogan
+
+  navigation:
+    name: "Navigation"
+    description: "Menus, wayfinding, information architecture, site structure"
+    keywords:
+      - navigation
+      - menu
+      - nav
+      - navbar
+      - hamburger
+      - drawer
+      - sidebar navigation
+      - breadcrumb
+      - sitemap
+      - information architecture
+      - ia
+      - wayfinding
+      - link
+      - anchor
+      - internal link
+      - external link
+      - footer links
+      - mega menu
+      - flyout
+      - dropdown menu
+      - tree view
+      - hierarchy
+
+  forms_inputs:
+    name: "Forms & Inputs"
+    description: "Form design, input validation, error states, user input"
+    keywords:
+      - form
+      - input
+      - field
+      - label
+      - placeholder
+      - validation
+      - error message
+      - required
+      - optional
+      - checkbox
+      - radio button
+      - select
+      - textarea
+      - submit
+      - reset
+      - autofill
+      - autocomplete
+      - date picker
+      - file upload
+      - password
+      - email
+      - inline validation
+      - form layout
+
+  performance:
+    name: "Performance"
+    description: "Load times, optimization, perceived speed, core web vitals"
+    keywords:
+      - performance
+      - speed
+      - load time
+      - optimization
+      - lazy loading
+      - code splitting
+      - minification
+      - compression
+      - caching
+      - cdn
+      - core web vitals
+      - lcp
+      - fid
+      - cls
+      - ttfb
+      - fcp
+      - image optimization
+      - webp
+      - avif
+      - preload
+      - prefetch
+      - async
+      - defer
+      - critical css
+
+# Classification settings
+classification:
+  # Minimum keyword matches to assign a topic
+  min_keyword_matches: 2
+  # Weight for exact matches vs partial matches
+  exact_match_weight: 2.0
+  partial_match_weight: 1.0
+  # Maximum topics to assign per chunk
+  max_topics_per_chunk: 3

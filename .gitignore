@@ -1,0 +1,5 @@
+# Exclude zip files
+*.zip
+
+# Exclude files over 100MB (GitHub limit)
+_OceanofPDF.com_Learning_Web_Design_6E_Final_-_Jennifer_Niederst_Robbins.pdf

@@ -1,0 +1,22 @@
+# PDF Processing Dependencies
+pymupdf>=1.23.0
+pdfplumber>=0.10.0
+
+# Text Processing
+langchain>=0.1.0
+langchain-text-splitters>=0.0.1
+
+# Vector Database
+chromadb>=0.4.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# Configuration
+pyyaml>=6.0
+
+# Progress Display
+tqdm>=4.65.0
+
+# Utilities
+python-dateutil>=2.8.0

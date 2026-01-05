@@ -1,0 +1,185 @@
+# Books Metadata Configuration
+# Maps PDF filenames to structured metadata for the RAG system
+
+books:
+  # Web Design Fundamentals
+  - id: learning_web_design_6e
+    filename: "_OceanofPDF.com_Learning_Web_Design_6E_Final_-_Jennifer_Niederst_Robbins.pdf"
+    title: "Learning Web Design, 6th Edition"
+    author: "Jennifer Niederst Robbins"
+    year: 2022
+    primary_topics: ["layout", "css_techniques", "responsive"]
+    tags: ["beginner", "html", "css", "fundamentals", "comprehensive"]
+
+  - id: principles_web_design_3e
+    filename: "_OceanofPDF.com_Principles_of_Web_Design_3rd_Edition_-_Brian_D_Miller.pdf"
+    title: "Principles of Web Design, 3rd Edition"
+    author: "Brian D. Miller"
+    year: 2018
+    primary_topics: ["layout", "visual_hierarchy", "ux_principles"]
+    tags: ["principles", "theory", "design-thinking"]
+
+  - id: beautiful_web_design_4e
+    filename: "_OceanofPDF.com_The_Principles_of_Beautiful_Web_Design_4t_-_Jason_Beaird.pdf"
+    title: "The Principles of Beautiful Web Design, 4th Edition"
+    author: "Jason Beaird"
+    year: 2020
+    primary_topics: ["visual_hierarchy", "color_theory", "typography", "layout"]
+    tags: ["aesthetics", "beauty", "visual-design"]
+
+  - id: web_design_playground_2e
+    filename: "_OceanofPDF.com_Web_Design_Playground_Second_Edition_-_Paul_McFedries.pdf"
+    title: "Web Design Playground, 2nd Edition"
+    author: "Paul McFedries"
+    year: 2022
+    primary_topics: ["css_techniques", "layout", "responsive"]
+    tags: ["practical", "hands-on", "tutorials"]
+
+  - id: art_science_web_design
+    filename: "_OceanofPDF.com_The_Art_n_Science_of_Web_Design_-_Jeffrey_Veen.pdf"
+    title: "The Art & Science of Web Design"
+    author: "Jeffrey Veen"
+    year: 2001
+    primary_topics: ["ux_principles", "layout", "navigation"]
+    tags: ["classic", "theory", "foundational"]
+
+  - id: web_design_confidential
+    filename: "Web Design Confidential_ The whole truth on the state of web -- [Amanda Hackwith] -- [Lexington, Ky_], Kentucky, 2012 -- Rockable Press -- 9780987102669 -- 0acf0643f4fa9275d5a52aafa79d6d54 -- Anna's Archive.pdf"
+    title: "Web Design Confidential"
+    author: "Amanda Hackwith"
+    year: 2012
+    primary_topics: ["ux_principles", "branding", "performance"]
+    tags: ["industry", "insights", "practical"]
+
+  # Color Theory
+  - id: color_choices
+    filename: "_OceanofPDF.com_Web_Design_Basics_Color_Choices_-_StomperNet.pdf"
+    title: "Web Design Basics: Color Choices"
+    author: "StomperNet"
+    year: 2010
+    primary_topics: ["color_theory"]
+    tags: ["color", "palette", "psychology", "contrast", "harmony"]
+
+  # UI/UX Design
+  - id: roots_uiux
+    filename: "_OceanofPDF.com_Roots_of_UIUX_Design_Learn_to_Develop_Intuitive_Web_Experiences_-_Elisa_Paduraru.pdf"
+    title: "Roots of UI/UX Design"
+    author: "Elisa Paduraru"
+    year: 2022
+    primary_topics: ["ux_principles", "ui_patterns", "navigation"]
+    tags: ["intuitive", "user-experience", "foundations"]
+
+  - id: ultimate_uiux
+    filename: "_OceanofPDF.com_Ultimate_UIUX_Design_for_Professionals_-_Sharanpreet_Kaur.pdf"
+    title: "Ultimate UI/UX Design for Professionals"
+    author: "Sharanpreet Kaur"
+    year: 2022
+    primary_topics: ["ui_patterns", "ux_principles", "forms_inputs"]
+    tags: ["professional", "advanced", "workflows"]
+
+  - id: uiux_2022
+    filename: "_OceanofPDF.com_UXUI_Design_2022_-_Carl_Jones.pdf"
+    title: "UX/UI Design 2022"
+    author: "Carl Jones"
+    year: 2022
+    primary_topics: ["ui_patterns", "ux_principles", "responsive"]
+    tags: ["modern", "trends", "contemporary"]
+
+  - id: uiux_strategy
+    filename: "_OceanofPDF.com_UX_AND_UI_STRATEGY__A_STEP_BY_STEP_GUIDE_O_-_PAMALA_DEACON.pdf"
+    title: "UX and UI Strategy: A Step by Step Guide"
+    author: "Pamala Deacon"
+    year: 2021
+    primary_topics: ["ux_principles", "ui_patterns", "navigation"]
+    tags: ["strategy", "methodology", "step-by-step"]
+
+  - id: designing_apps_success
+    filename: "_OceanofPDF.com_Designing_Apps_for_Success_-_Matthew_David.pdf"
+    title: "Designing Apps for Success"
+    author: "Matthew David"
+    year: 2014
+    primary_topics: ["ui_patterns", "ux_principles", "forms_inputs"]
+    tags: ["apps", "mobile", "success-patterns"]
+
+  # CSS & Frontend
+  - id: handcrafted_css
+    filename: "_OceanofPDF.com_Handcrafted_CSS_-_Dan_Cederholm.pdf"
+    title: "Handcrafted CSS"
+    author: "Dan Cederholm"
+    year: 2010
+    primary_topics: ["css_techniques", "typography", "layout"]
+    tags: ["css", "craftsmanship", "clean-code"]
+
+  - id: css_portfolio_app
+    filename: "_OceanofPDF.com_CSS_Portfolio_App_Design_-_Abdelfattah_Ragab.pdf"
+    title: "CSS Portfolio App Design"
+    author: "Abdelfattah Ragab"
+    year: 2021
+    primary_topics: ["css_techniques", "layout", "ui_patterns"]
+    tags: ["portfolio", "css", "practical"]
+
+  # Responsive Design
+  - id: responsive_web_design
+    filename: "_OceanofPDF.com_Responsive_Web_Design_-_Ethan_Marcotte.pdf"
+    title: "Responsive Web Design"
+    author: "Ethan Marcotte"
+    year: 2011
+    primary_topics: ["responsive", "layout", "css_techniques"]
+    tags: ["rwd", "mobile-first", "fluid", "foundational"]
+
+  - id: responsive_in_practice
+    filename: "_OceanofPDF.com_Responsive_Web_Design_in_Practice_-_Jason_A_Clark.pdf"
+    title: "Responsive Web Design in Practice"
+    author: "Jason A. Clark"
+    year: 2015
+    primary_topics: ["responsive", "performance", "layout"]
+    tags: ["practical", "implementation", "real-world"]
+
+  # Design Tools
+  - id: figma_uiux
+    filename: "_OceanofPDF.com_Ultimate_Figma_for_UIUX_Design_-_Aditi_Sharma.pdf"
+    title: "Ultimate Figma for UI/UX Design"
+    author: "Aditi Sharma"
+    year: 2022
+    primary_topics: ["ui_patterns", "branding", "visual_hierarchy"]
+    tags: ["figma", "tools", "prototyping", "design-systems"]
+
+  # Design Culture & History
+  - id: design_culture
+    filename: "_OceanofPDF.com_Design_Culture_-_Guy_Julier.pdf"
+    title: "Design Culture"
+    author: "Guy Julier"
+    year: 2014
+    primary_topics: ["branding", "visual_hierarchy"]
+    tags: ["culture", "history", "theory", "context"]
+
+  - id: cult_of_mac
+    filename: "_OceanofPDF.com_The_cult_of_MAC_-_Leander_kahney.pdf"
+    title: "The Cult of Mac"
+    author: "Leander Kahney"
+    year: 2004
+    primary_topics: ["branding", "ui_patterns"]
+    tags: ["apple", "brand", "culture", "inspiration"]
+
+  # JavaScript & Application Design
+  - id: javascript_app_design
+    filename: "_OceanofPDF.com_JavaScript_Application_Design_-_Nicolas_Bevacqua.pdf"
+    title: "JavaScript Application Design"
+    author: "Nicolas Bevacqua"
+    year: 2015
+    primary_topics: ["performance", "ui_patterns"]
+    tags: ["javascript", "architecture", "build-tools"]
+
+  # Level Design (bonus - architectural principles applicable to web)
+  - id: architectural_level_design
+    filename: "_OceanofPDF.com_Architectural_Approach_to_Level_Design_-_Christopher_Totten.pdf"
+    title: "An Architectural Approach to Level Design"
+    author: "Christopher Totten"
+    year: 2014
+    primary_topics: ["layout", "navigation", "visual_hierarchy"]
+    tags: ["architecture", "spatial", "flow", "game-design"]
+
+# Duplicate files to skip during processing
+duplicates:
+  - "_OceanofPDF.com_Ultimate_Figma_for_UIUX_Design_-_Aditi_Sharma-1.pdf"
+  - "_OceanofPDF.com_Architectural_Approach_to_Level_Design_-_Christopher_Totten-1.pdf"
